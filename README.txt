@@ -1,0 +1,1 @@
+To run the GUI, open MATLAB and run BottleDetection.m
